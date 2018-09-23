@@ -8,9 +8,10 @@
 
 ## CSS4 Selectors
 
-- [] :any-link, :matches, :not
-- [] CSS Variables
-- [] @custom-media, @custom-selector
+- [x] :any-link, :matches, :not
+- [x] CSS Variables
+- [x] @custom-selector
+- [] @custom-media
 - [] Media Query Ranges
 - [] font-variant, gray(), system-ui
 - [] Nesting Rules
