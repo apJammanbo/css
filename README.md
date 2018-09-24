@@ -13,8 +13,8 @@
 - [x] @custom-selector
 - [x] @custom-media
 - [x] Media Query Ranges
-- [] font-variant, gray(), system-ui
-- [] Nesting Rules
+- [x] font-variant, gray(), system-ui
+- [x] Nesting Rules
 
 ## CSS Grid KISS
 
